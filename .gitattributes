@@ -1,3 +1,4 @@
+*.npy filter=lfs diff=lfs merge=lfs -text
 Dep/CCS_comdep.npy filter=lfs diff=lfs merge=lfs -text
 Dep/Mamu_comdep.npy filter=lfs diff=lfs merge=lfs -text
 Dep/XG_CCS_comdep.npy filter=lfs diff=lfs merge=lfs -text
